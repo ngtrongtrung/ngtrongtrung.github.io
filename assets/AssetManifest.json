@@ -1,15 +1,15 @@
 {
     "assets/assets/avatar.jpg": [
-        "assets/avatar.jpg"
+        "assets/assets/avatar.jpg"
     ],
-    "assets/icons/facebook.svg": [
-        "assets/icons/facebook.svg"
+    "assets/assets/icons/facebook.svg": [
+        "assets/assets/icons/facebook.svg"
     ],
-    "assets/icons/icons8-github.svg": [
-        "assets/icons/icons8-github.svg"
+    "assets/assets/icons/icons8-github.svg": [
+        "assets/assets/icons/icons8-github.svg"
     ],
-    "assets/icons/icons8-gmail.svg": [
-        "assets/icons/icons8-gmail.svg"
+    "assets/assets/icons/icons8-gmail.svg": [
+        "assets/assets/icons/icons8-gmail.svg"
     ],
     "packages/cupertino_icons/assets/CupertinoIcons.ttf": [
         "packages/cupertino_icons/assets/CupertinoIcons.ttf"
