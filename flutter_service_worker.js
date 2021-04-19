@@ -260,7 +260,6 @@ self.addEventListener("fetch", (event) => {
   if (key.indexOf("?v=") != -1) {
     key = key.split("?v=")[0];
   }
-  print("hihi");
   if (
     event.request.url == origin ||
     event.request.url.startsWith(origin + "/#") ||
